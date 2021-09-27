@@ -1,0 +1,14 @@
+{
+  "name": "tsw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Victor Santos",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.2.2"
+  }
+}
